@@ -1,4 +1,6 @@
-flutter 实现的极致流畅的原神地图。
+flutter 实现，极致流畅的原神地图 app。
+
+https://user-images.githubusercontent.com/1709072/206902921-63401f08-ab8b-48ee-a614-7749563946db.mp4
 
 ## android 版
 
@@ -6,7 +8,7 @@ flutter 实现的极致流畅的原神地图。
 
 ## web 版
 
-https://user-images.githubusercontent.com/1709072/206476186-a8d7d66d-9686-4f81-9f7c-4b504634e175.mp4
+https://user-images.githubusercontent.com/1709072/206903195-fcf1ece2-8e00-4fe5-aa49-132f18b3690d.mp4
 
 https://qiuxiang.github.io/genshin-maps/ (github pages)
 
