@@ -1041,8 +1041,8 @@ const RESOURCES = {
 "assets/tiles/3_20_14.webp": "3e1944600fd87f3d3e9714db0c657749",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "914a3e4ea272b826cd7bb41a7b1e7365",
-"index.html": "6ec12116c816047d1a436356d0c2f0c1",
-"/": "6ec12116c816047d1a436356d0c2f0c1",
+"index.html": "3866b919f028164725514ec92a00ecfe",
+"/": "3866b919f028164725514ec92a00ecfe",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "version.json": "2f4bbe3836c4b8c3cd754d9e99cf63ca"
 };
