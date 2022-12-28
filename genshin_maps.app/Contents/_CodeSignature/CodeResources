@@ -27,19 +27,19 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			wf1IHPl9fPQV6bdjAdUAXC6MpbU=
+			smG5moIfHShd/XP4C3d/4z91704=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"bec560049db8c84fa82efcd0d16dbdb3939ce116" or cdhash H"c1fd481cf97d7cf415e9b76301d5005c2e8ca5b5" or cdhash H"8b9fd5b6bc2cc17f780023af550c30b654260603" or cdhash H"3b25bc92cfe309ce87bf220f86b67a467cc484db"</string>
+			<string>cdhash H"e21fcd18a6417ac44fdcb694f290442200869b42" or cdhash H"b261b99a821f1d285dfd73f80b777fe33f75ef4e" or cdhash H"684720777ab13614510e8de5e3afa4b1d27323f6" or cdhash H"0e931fe5564665344647845d67b347658efaed55"</string>
 		</dict>
 		<key>Frameworks/FMDB.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			wN5UkVQbLD9+9mx5gTAoOqmZdpI=
+			gAz1koVq2hQlU491WljtDNmonck=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"764f0c2d33eebb9150967bb0bd3248dc67480ac8" or cdhash H"c0de5491541b2c3f7ef66c798130283aa9997692" or cdhash H"1d8ed3de3e0bcfe201e112c7fd2c1d351dc8d3a1" or cdhash H"e7c06178a8da125688df4bb6a16e74e71b89b789"</string>
+			<string>cdhash H"390d037bc1b475e340397e7e753e2ccd037719a6" or cdhash H"800cf592856ada1425538f755a58ed0cd9a89dc9" or cdhash H"d28c91a83667a1dc326bc97a9d648b3bf939ae15" or cdhash H"6389ba95ef54a5fb7f0fb29334f7d255911a9dee"</string>
 		</dict>
 		<key>Frameworks/FlutterMacOS.framework</key>
 		<dict>
@@ -207,19 +207,19 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			EW5/UMi5FFYC2haGnz6Nm5QTEn4=
+			HX4vbn6wlCOvSNBtyw5/qWsiOQs=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"d0b3e44b03a3a9512d30038242fb2b804cd5b3ce" or cdhash H"116e7f50c8b9145602da16869f3e8d9b9413127e" or cdhash H"4afbcb5ee7bf109ad19cc24dbac50429165fc4ae" or cdhash H"55960024d58fc4b94fab0bab0157172a164e7509"</string>
+			<string>cdhash H"b02c0f40e7c4f7bc26c2e6b013f7ffb1f17678df" or cdhash H"1d7e2f6e7eb09423af48d06dcb0e7fa96b22390b" or cdhash H"34214b2dd82a843ad32a6742fef69f2ce7e47900" or cdhash H"5c9f591e102875fd1298405659163a8843bf9cf4"</string>
 		</dict>
 		<key>Frameworks/sqflite.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			0DYEkUR2pFnUSv6eu6cvHKmJ+kY=
+			oC6B+D/KbjF8bft55EW9+iZ4r2k=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"cd86d7f44668b2128a3c72ffa8d8efb6e24a0b63" or cdhash H"d03604914476a459d44afe9ebba72f1ca989fa46" or cdhash H"e256bc35e92456d2619a6ee6a665c0358a4d1283" or cdhash H"11c0465ba058187bfae210e54a8809d6c3f5bf0e"</string>
+			<string>cdhash H"0d83913c4caebd1f68558089f4081f4a3bf5ef82" or cdhash H"a02e81f83fca6e317c6dfb79e445bdfa2678af69" or cdhash H"0c035ab3a04694f31cfba77541a707a39a88134a" or cdhash H"fff1580b80cf9c5efff54a6f2be48ddc0277bd5b"</string>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>
