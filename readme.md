@@ -1,4 +1,4 @@
-flutter 实现，极致流畅的原神地图 app，支持 android、web、windows、macos。
+flutter 实现，极致流畅的原神地图 app，支持 android、web、linux、windows、macos。
 
 ## android 版
 
@@ -24,6 +24,10 @@ https://qiuxiang.github.io/genshin-maps/ (github pages)
 https://7c00.shop/genshin-maps/ (cloudflare，理论上速度更快，但不保证一直可用)
 
 http://106.55.55.247:81/ (自己在国内的服务器，国内访问速度最快，但随时关停)
+
+## linux 版
+
+https://github.com/qiuxiang/genshin-maps/archive/refs/heads/linux.zip
 
 ## windows 版
 
