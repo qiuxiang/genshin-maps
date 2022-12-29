@@ -1,4 +1,4 @@
-flutter 实现，极致流畅的原神地图 app。
+flutter 实现，极致流畅的原神地图 app，支持 android、web、windows、macos。
 
 ## android 版
 
