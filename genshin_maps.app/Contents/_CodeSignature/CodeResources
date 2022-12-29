@@ -36,10 +36,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			sITqWFQ/l+IYyb9+zaP6H+dRVhY=
+			vbfI7lyYuRk/PT03gsdWno7fjG0=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"4048b7eb10bc8d7d9cff10c3c25736191ddae009" or cdhash H"b084ea58543f97e218c9bf7ecda3fa1fe7515616" or cdhash H"661b1b45ffebfe80708d18ab6f7b2f1f2c019a09" or cdhash H"a359fe41f016ad1baccd02a949138c7fad9f8f08"</string>
+			<string>cdhash H"30e354aff5e1abc44f044080895ae274f85b7b6a" or cdhash H"bdb7c8ee5c98b9193f3d3d3782c7569e8edf8c6d" or cdhash H"f9c7be7f5d2c1a80a29145cb6067752991f22c41" or cdhash H"063b3c439940ac90c51308ee11b594fddaaa245b"</string>
 		</dict>
 		<key>Frameworks/FlutterMacOS.framework</key>
 		<dict>
@@ -207,19 +207,19 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			DWxs0tB1mCIVwSJ1OXUYu7ttI7E=
+			Ht//CpFZ5BAvmD8Jm7Yt6xp7W7Y=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"084905b05f7cf7b1dd716236b255a580780ffbd9" or cdhash H"0d6c6cd2d075982215c12275397518bbbb6d23b1" or cdhash H"bf5a4bbba9fdd854601afc6eefca791757407899" or cdhash H"9dd35b1436c0b71cc7c76f37c46965356748d024"</string>
+			<string>cdhash H"b5c1f202dbb91621ed4edcf9c68789b2e1e175ae" or cdhash H"1edfff0a9159e4102f983f099bb62deb1a7b5bb6" or cdhash H"71167c54e122cb85348e33b1b2cf8103de23847a" or cdhash H"0da26cfaf7ee6233328165096117de3297498792"</string>
 		</dict>
 		<key>Frameworks/sqflite.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			ucjkUSP6MJuRnx8T39BwdxOfiBc=
+			pIWaYRD0ty6pUEQhyNBTLEJ3SgE=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"390aa382613cba4f725feb164a2fecd98592ed7b" or cdhash H"b9c8e45123fa309b919f1f13dfd07077139f8817" or cdhash H"1dd46f642abfec8779aeb45d6b03d28bc79302ad" or cdhash H"aea6a3a3b048d5461dea143fe4062e691a4ca21b"</string>
+			<string>cdhash H"a638d96d210dba81216d35ce0a4a01f936416a37" or cdhash H"a4859a6110f4b72ea9504421c8d0532c42774a01" or cdhash H"062235971e5fe922569045342ea8244d8eacbabb" or cdhash H"eaa035340ac0808591809db4bbbb7d61086df7a7"</string>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>
