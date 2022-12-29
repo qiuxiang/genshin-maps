@@ -24,3 +24,11 @@ https://qiuxiang.github.io/genshin-maps/ (github pages)
 https://7c00.shop/genshin-maps/ (cloudflare，理论上速度更快，但不保证一直可用)
 
 http://106.55.55.247:81/ (自己在国内的服务器，国内访问速度最快，但随时关停)
+
+## windows 版
+
+https://github.com/qiuxiang/genshin-maps/archive/refs/heads/windows.zip
+
+## macos 版
+
+https://github.com/qiuxiang/genshin-maps/archive/refs/heads/macos.zip
