@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "064a8be3bc71ee43309c6905a695b4ea",
+  "main.dart.js": "aaa0ec203a92826d677cc32295bc0ffc",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
 "canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
@@ -14,10 +14,16 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
-"assets/AssetManifest.json": "9b9921494254c7e55b40deeaf05ac998",
+"assets/AssetManifest.json": "a6063426182cd441c51fae66d4e23962",
 "assets/images/active-point.png": "acdc835fc91173bbf4e07389332c657a",
 "assets/images/point-bg.png": "f13d2c7526f102f20eaeb02b86d09c9a",
 "assets/shaders/ink_sparkle.frag": "ab4751ef630837e294889ca64470bb70",
+"assets/data/en-us_label-tree.json": "7981de50039c0e2f7bef13d400391090",
+"assets/data/en-us_map-labels.json": "e0619fc5f56dfa42361896ef7ce2cf89",
+"assets/data/zh-cn_map-labels.json": "cde245e9912d5e6882cdec3736a5ff9c",
+"assets/data/zh-cn_points.json": "eb7f84fa493bea822b508aa8982f92f9",
+"assets/data/zh-cn_label-tree.json": "342a43ea62a42cb9ef8e3ebc0d07a1c2",
+"assets/data/en-us_points.json": "3243d25bfc22f7504c9b34e0d377067e",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/tiles/3_3_23.webp": "ca0894d2103f3e3eb3742274a16dd419",
 "assets/tiles/3_18_0.webp": "a521a842120b699045856143c61e2e17",
@@ -1041,8 +1047,8 @@ const RESOURCES = {
 "assets/tiles/3_20_14.webp": "3e1944600fd87f3d3e9714db0c657749",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "bf9192f7df958946b6c9cbeeb7084b1f",
-"index.html": "544be3b251ba611e04fd3a0d20b00960",
-"/": "544be3b251ba611e04fd3a0d20b00960",
+"index.html": "af74d5b8a88227f3212e94b62aab2ec6",
+"/": "af74d5b8a88227f3212e94b62aab2ec6",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "version.json": "2f4bbe3836c4b8c3cd754d9e99cf63ca"
 };
