@@ -31,6 +31,8 @@ http://106.55.55.247:81/ (自己在国内的服务器，国内访问速度更快
 
 ## windows 版
 
+![image](https://user-images.githubusercontent.com/1709072/210090421-a5172c0b-6cb1-4c08-bbb6-0887f8ff3f01.png)
+
 下载地址：https://github.com/qiuxiang/genshin-maps/archive/refs/heads/windows.zip
 
 ## macos 版
