@@ -27,6 +27,8 @@ http://106.55.55.247:81/ (自己在国内的服务器，国内访问速度更快
 
 ## linux 版
 
+![telegram-cloud-document-5-6158827903820760831](https://user-images.githubusercontent.com/1709072/210091654-e37abb6b-32f4-487c-842c-6e3be919c66a.jpg)
+
 下载地址：https://github.com/qiuxiang/genshin-maps/archive/refs/heads/linux.zip
 
 ## windows 版
