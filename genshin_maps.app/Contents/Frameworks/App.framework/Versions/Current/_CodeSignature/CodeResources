@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/flutter_assets/AssetManifest.json</key>
 		<data>
-		TZSHz0wvf4Kfy2XNJaH7GIz+a7Y=
+		5kEKni8gVWV2kx+/ftEfcoPUXgg=
 		</data>
 		<key>Resources/flutter_assets/FontManifest.json</key>
 		<data>
@@ -19,6 +19,30 @@
 		<key>Resources/flutter_assets/NOTICES.Z</key>
 		<data>
 		GdfzZD6PsR8ZXeV0hvbRWCkvrHs=
+		</data>
+		<key>Resources/flutter_assets/data/en-us_label-tree.json</key>
+		<data>
+		sZBd2WdLMCs0w/RZCuAo5IbFHd4=
+		</data>
+		<key>Resources/flutter_assets/data/en-us_map-labels.json</key>
+		<data>
+		FwWhOnjr8m06UuOaNY7Biox8sNU=
+		</data>
+		<key>Resources/flutter_assets/data/en-us_points.json</key>
+		<data>
+		hYYoi2i6FLVz4LcpIjLA2ov/c8Q=
+		</data>
+		<key>Resources/flutter_assets/data/zh-cn_label-tree.json</key>
+		<data>
+		FhbzGAT4VtoHpDXHEQJq76i2gVI=
+		</data>
+		<key>Resources/flutter_assets/data/zh-cn_map-labels.json</key>
+		<data>
+		4F0ARtsjWu0bhzfomSjvICcVKBc=
+		</data>
+		<key>Resources/flutter_assets/data/zh-cn_points.json</key>
+		<data>
+		mb2MoMjK7zN+ueIXK2b/kONrM1E=
 		</data>
 		<key>Resources/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -4134,11 +4158,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TZSHz0wvf4Kfy2XNJaH7GIz+a7Y=
+			5kEKni8gVWV2kx+/ftEfcoPUXgg=
 			</data>
 			<key>hash2</key>
 			<data>
-			t7wWM9pkyYBxuUzKZdt4bh5xVnKaV5lcBwsE4FhsopQ=
+			GzAA5oX8taMtmdKNFA7sGrREIzODsufnpw4SEEEdd9Q=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/FontManifest.json</key>
@@ -4161,6 +4185,72 @@
 			<key>hash2</key>
 			<data>
 			H+ahXHrL28VX5MzCOgFwDDaPxhwn1jvUUSO5z6Pzg5o=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/data/en-us_label-tree.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sZBd2WdLMCs0w/RZCuAo5IbFHd4=
+			</data>
+			<key>hash2</key>
+			<data>
+			+GQBBS3jRtk9P8iTelmigZSxjofFNjsxxkjdYcf2HQ8=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/data/en-us_map-labels.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FwWhOnjr8m06UuOaNY7Biox8sNU=
+			</data>
+			<key>hash2</key>
+			<data>
+			ExVd48vyRTrsxAUMyI+zGWlP6M40cgUy7+cb/BTZVGo=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/data/en-us_points.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hYYoi2i6FLVz4LcpIjLA2ov/c8Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			3iXSUtEnfI0e1qIvFNJiQwR/W+63DIUepuGccJLFQ4g=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/data/zh-cn_label-tree.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FhbzGAT4VtoHpDXHEQJq76i2gVI=
+			</data>
+			<key>hash2</key>
+			<data>
+			Axp0jRNpZNz+D4x4kmu9nqMpvoxQ4XpwHVlt7gHYBqk=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/data/zh-cn_map-labels.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4F0ARtsjWu0bhzfomSjvICcVKBc=
+			</data>
+			<key>hash2</key>
+			<data>
+			17Y/syP5v1ZI9c0i6BjfQ3Xs7K0duYf0u7Jw9AK1B/s=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/data/zh-cn_points.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mb2MoMjK7zN+ueIXK2b/kONrM1E=
+			</data>
+			<key>hash2</key>
+			<data>
+			809sKQQxBiF/LGbRTLeezmRBpFMhRraKHWTH4uSa47o=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
