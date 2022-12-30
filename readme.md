@@ -27,14 +27,14 @@ http://106.55.55.247:81/ (自己在国内的服务器，国内访问速度更快
 
 ## linux 版
 
-https://github.com/qiuxiang/genshin-maps/archive/refs/heads/linux.zip
+下载地址：https://github.com/qiuxiang/genshin-maps/archive/refs/heads/linux.zip
 
 ## windows 版
 
-https://github.com/qiuxiang/genshin-maps/archive/refs/heads/windows.zip
+下载地址：https://github.com/qiuxiang/genshin-maps/archive/refs/heads/windows.zip
 
 ## macos 版
 
 ![image](https://user-images.githubusercontent.com/1709072/210069030-b5de4f59-3edd-4c1e-a8dd-cc3e481a79bf.png)
 
-https://github.com/qiuxiang/genshin-maps/archive/refs/heads/macos.zip
+下载地址：https://github.com/qiuxiang/genshin-maps/archive/refs/heads/macos.zip
