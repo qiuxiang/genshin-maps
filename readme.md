@@ -35,4 +35,6 @@ https://github.com/qiuxiang/genshin-maps/archive/refs/heads/windows.zip
 
 ## macos 版
 
+![image](https://user-images.githubusercontent.com/1709072/210069030-b5de4f59-3edd-4c1e-a8dd-cc3e481a79bf.png)
+
 https://github.com/qiuxiang/genshin-maps/archive/refs/heads/macos.zip
