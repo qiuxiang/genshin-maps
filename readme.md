@@ -39,6 +39,6 @@ http://106.55.55.247:81/ (自己在国内的服务器，国内访问速度更快
 
 ## macos 版
 
-![image](https://user-images.githubusercontent.com/1709072/210069030-b5de4f59-3edd-4c1e-a8dd-cc3e481a79bf.png)
+https://user-images.githubusercontent.com/1709072/210124594-4d188705-9d44-4d0c-a05d-a5ef9df34490.mp4
 
 下载地址：https://github.com/qiuxiang/genshin-maps/archive/refs/heads/macos.zip
