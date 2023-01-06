@@ -27,17 +27,26 @@ http://106.55.55.247:81/ (自己在国内的服务器，国内访问速度更快
 
 ## linux 版
 
+linux 版编译出来依赖 glibc_2.34，在一些包不够新的发行版无法运行，比如 debian 11。
+
 ![telegram-cloud-document-5-6158827903820760831](https://user-images.githubusercontent.com/1709072/210091654-e37abb6b-32f4-487c-842c-6e3be919c66a.jpg)
 
 下载地址：https://github.com/qiuxiang/genshin-maps/archive/refs/heads/linux.zip
 
 ## windows 版
 
+windows 的主要问题是字体渲染看起来比较违和，打包大小（15M）尚可，性能表现很不错，但对滚轮缺乏优化。
+
 https://user-images.githubusercontent.com/1709072/210124994-593465ed-7862-40f7-9bbc-a347ee791d2a.mp4
 
 下载地址：https://github.com/qiuxiang/genshin-maps/archive/refs/heads/windows.zip
 
 ## macos 版
+
+目前 macos 版最大的问题是打包出来太大（67M），包含各种 libraries，而且存在同文件重复打包的情况，
+如果说为了同时支持 x86 和 arm 库打包两份情有可原，但资源也重复打包就无法理解，更无法理解的是重复打包三份的情况。
+
+个人感觉使用过程中存在偶尔掉帧的情况，但无法重现，profile 显示的帧生成时间也没有问题，用 impeller 也没有得到解决。对触摸板支持很不错。
 
 https://user-images.githubusercontent.com/1709072/210124594-4d188705-9d44-4d0c-a05d-a5ef9df34490.mp4
 
