@@ -64713,7 +64713,7 @@ j.toString
 p+=j}}q.MI(p)
 return A.Q(null,r)}})
 return A.R($async$uI,r)},
-N6(a){var s,r,q,p=this,o=Math.min(Math.pow(2.718281828459045,Math.max(Math.log(p.fr)/0.6931471805599453,a)*0.6931471805599453),1),n=new Float64Array(16),m=new A.aQ(n)
+N6(a){var s,r,q,p=this,o=Math.min(Math.pow(2.718281828459045,Math.max(Math.log(p.fr)/0.6931471805599453,a)*0.6931471805599453),p.dy),n=new Float64Array(16),m=new A.aQ(n)
 m.d6()
 m.aU(0,o)
 s=-n[12]/o
