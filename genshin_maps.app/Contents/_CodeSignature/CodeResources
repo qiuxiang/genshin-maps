@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		o5rPtzMVw7GQOck2pK7+qrF3kxs=
+		Fg+jX59M4cqWoxMf0v0Envd6QH8=
 		</data>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<data>
@@ -32,10 +32,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			WASOvH+TRi8DDciY0ebhkFMogl4=
+			9pmc0KaESDOTEyaB8A6Su03eQxY=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"a2b6038f39d446dd61628ec7f9a27304f379586e" or cdhash H"58048ebc7f93462f030dc898d1e6e1905328825e" or cdhash H"b858e5c060ded7aac5d3191314e6a8b84655bdaa" or cdhash H"4bad72b1ad08444adff0fa91bdabbaf8fbbec961"</string>
+			<string>cdhash H"0befcab59b2926a22046afb52294db15cd983045" or cdhash H"f6999cd0a684483393132681f00e92bb4dde4316" or cdhash H"db2a2b3f64d93c496bcea8e16382996d1ae96f8f" or cdhash H"fc2ea8c021cc0b2aa0c2171585cc84077ed34d2a"</string>
 		</dict>
 		<key>Frameworks/FlutterMacOS.framework</key>
 		<dict>
@@ -203,19 +203,19 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			hFtPJSL/gtuNgu05flUwY6wD6nM=
+			lTInUDmHoq9NlM2rcL7jnAo49gg=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"845b4f2522ff82db8d82ed397e553063ac03ea73" or cdhash H"5e4d3658234ca80711a69e9c1ee394a058aada49"</string>
+			<string>cdhash H"953227503987a2af4d94cdab70bee39c0a38f608" or cdhash H"cf72e12e55a7d1518ab61fb04fab768d20fc8295"</string>
 		</dict>
 		<key>Frameworks/sqflite.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			bYlv5DmrxETwzij5r9867/FhDnk=
+			nh1VMhoNDalsvRqRYQiC5HnKYwc=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"6d896fe439abc444f0ce28f9afdf3aeff1610e79" or cdhash H"1be30319dde09d8a0ec86fac99ae8f099b149d17"</string>
+			<string>cdhash H"9e1d55321a0d0da96cbd1a91610882e479ca6307" or cdhash H"cfd93fbc9a0b6f3f6494c1053adff9f99973f8ae"</string>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>
@@ -228,7 +228,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bFzQ8/33zHpx3HW6dOawJE5Tt1gMiSdbhC4B3ICEkmw=
+			TM6kOTkLdqjCBq+bcU4Z6l66sOvrV9sP78R3quH0Y/Q=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
