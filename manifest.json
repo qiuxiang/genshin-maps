@@ -1,6 +1,6 @@
 {
-    "name": "genshin_maps",
-    "short_name": "genshin_maps",
+    "name": "genshin_map",
+    "short_name": "genshin_map",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
