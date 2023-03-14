@@ -23,19 +23,19 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			7R8fViLuoXQcXk6mEGFTLgdS7dA=
+			S8FLmkiSiPpFuKPQ2THHrJjxSAU=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"ed1f1f5622eea1741c5e4ea61061532e0752edd0" or cdhash H"24c91a8c3de672ee2bd69f0a26f5387319f87faf"</string>
+			<string>cdhash H"4bc14b9a489288fa45b8a3d0d931c7ac98f14805" or cdhash H"4c438ba1a21b7d0b77bae9bbca6c86353f7e3618"</string>
 		</dict>
 		<key>Frameworks/FMDB.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			+9EmhorPIP35ZXnQ6SnEMvq4v1U=
+			cT58f0nOmkKSget3cv0H6KF53ig=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"76103116c7eec52598666b17bf7b4f6163956976" or cdhash H"fbd126868acf20fdf96579d0e929c432fab8bf55" or cdhash H"016e2788e338a849fd65fb1984f260a85018446a" or cdhash H"b8480bd4bab16e2041c13bec91c569e877401b0d"</string>
+			<string>cdhash H"dfc9b93092883b0bca6faecf4d799a07fb8f6916" or cdhash H"713e7c7f49ce9a429281eb7772fd07e8a179de28" or cdhash H"5c8f46c9a5045aef36428dc98328c645e597aa5d" or cdhash H"917a2c7e01b5a3bedb6aa0d60844e172ff0804f2"</string>
 		</dict>
 		<key>Frameworks/FlutterMacOS.framework</key>
 		<dict>
@@ -203,19 +203,19 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			JXiyvEwqMAhJHgL9G5gqJgd7aOw=
+			31rGsVyaW6SxXpwOZRrTWOHUVNs=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"2578b2bc4c2a3008491e02fd1b982a26077b68ec" or cdhash H"53732a26efc3c4a0a81c5c4bda5f616559387899"</string>
+			<string>cdhash H"df5ac6b15c9a5ba4b15e9c0e651ad358e1d454db" or cdhash H"c056d508abb28e47e8e12dc7f36281d012c1ed22"</string>
 		</dict>
 		<key>Frameworks/sqflite.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			bl5VPsaaNfG0AgDsGG7GqU6Vbg0=
+			i7CWdH/Oeaqa14vbln3VI5UAIYQ=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"6e5e553ec69a35f1b40200ec186ec6a94e956e0d" or cdhash H"fad01ee18b5d1835bae3957c4b130a047c4e7af9"</string>
+			<string>cdhash H"8bb096747fce79aa9ad78bdb967dd52395002184" or cdhash H"b29e2ead6c3b70cd4c481677f43883c61e5db532"</string>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>
