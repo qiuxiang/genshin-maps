@@ -1,4 +1,4 @@
-export interface MapInfo {
+export interface MapData {
   id: number;
   name: string;
   icon: string;
@@ -7,6 +7,7 @@ export interface MapInfo {
   slices: [string][];
   mapAnchors: MapAnchor[];
   mapPointLabels: MapPointLabel[];
+  mapPointGroups: MapPointGroup[];
 }
 
 export interface MapAnchor {
@@ -21,12 +22,23 @@ export interface MapPoint {
   x: number;
   y: number;
   areaId: number;
-  extra: string;
 }
 
 export interface MapPointLabel {
+  id: number;
   name: string;
   icon: string;
   children: MapPointLabel[];
   mapPoints: MapPoint[];
+}
+
+export interface MapPointGroup {
+  entrances: number[];
+  points: number[];
+  overlay: {
+    width: number;
+    height: number;
+    url: string;
+    bounds: [[number, number], [number, number]];
+  };
 }
