@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/flutter_assets/AssetManifest.json</key>
 		<data>
-		ZsvIlwr70Q03zxrBzqCXY4tzxLE=
+		g0PMUfYo9pQRkFWj3couHm3ub3A=
 		</data>
 		<key>Resources/flutter_assets/FontManifest.json</key>
 		<data>
@@ -35,6 +35,10 @@
 		<key>Resources/flutter_assets/images/active-point.png</key>
 		<data>
 		lBaNRvucwCEJ4jlMD0ItXN55XFs=
+		</data>
+		<key>Resources/flutter_assets/images/icon-non-ground.png</key>
+		<data>
+		LkgQd5UXhy3l4MfqC3J59IBfpPI=
 		</data>
 		<key>Resources/flutter_assets/shaders/ink_sparkle.frag</key>
 		<data>
@@ -4134,7 +4138,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TZ1YU0cpi/s9raq1ef4JK5jf5bk1jLhsoDw8+flMcsI=
+			71A2MpWSLn2j7HHFKgsGGLv4PzWRaW+mZi3ayegH/fY=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/FontManifest.json</key>
@@ -4177,6 +4181,13 @@
 			<key>hash2</key>
 			<data>
 			OaaPMiamhjfTL4ESfg3bpXy6VN1kRb6ajEu1QsSR68w=
+			</data>
+		</dict>
+		<key>Resources/flutter_assets/images/icon-non-ground.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8+cwUin/lT/qdCkKVI3aRYeI2UFOEkx4azaAeATqXMU=
 			</data>
 		</dict>
 		<key>Resources/flutter_assets/shaders/ink_sparkle.frag</key>
