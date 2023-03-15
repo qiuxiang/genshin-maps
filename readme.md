@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/1709072/206902921-63401f08-ab8b-48ee-a
 
 https://qiuxiang.github.io/genshin-maps/
 
-http://106.55.55.247:81/ (国内的服务器，国内访问速度更快，不保证可用性)
+http://106.55.55.247:81/ (国内的服务器，不保证可用性)
 
 ## linux 版
 
