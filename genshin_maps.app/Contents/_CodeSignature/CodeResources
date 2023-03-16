@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		o5rPtzMVw7GQOck2pK7+qrF3kxs=
+		Fg+jX59M4cqWoxMf0v0Envd6QH8=
 		</data>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<data>
@@ -23,19 +23,19 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			S8FLmkiSiPpFuKPQ2THHrJjxSAU=
+			4eZ4fTxziBxHJjqArLaLSaXkS0o=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"4bc14b9a489288fa45b8a3d0d931c7ac98f14805" or cdhash H"4c438ba1a21b7d0b77bae9bbca6c86353f7e3618"</string>
+			<string>cdhash H"e1e6787d3c73881c47263a80acb68b49a5e44b4a" or cdhash H"556d0f53d38200bc492a88a4cab9527f9f470e24"</string>
 		</dict>
 		<key>Frameworks/FMDB.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			cT58f0nOmkKSget3cv0H6KF53ig=
+			/1o1c/oylSdZaDzuLttkum8sLKY=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"dfc9b93092883b0bca6faecf4d799a07fb8f6916" or cdhash H"713e7c7f49ce9a429281eb7772fd07e8a179de28" or cdhash H"5c8f46c9a5045aef36428dc98328c645e597aa5d" or cdhash H"917a2c7e01b5a3bedb6aa0d60844e172ff0804f2"</string>
+			<string>cdhash H"6926911108c2e1036055ca20fe72dddd4c96f16f" or cdhash H"ff5a3573fa32952759683cee2edb64ba6f2c2ca6" or cdhash H"fb7a9cc65c7d49dde6df0e83250b92d9b5f6414d" or cdhash H"0541837951a84aec7bcdd57bf5753003c7987d8b"</string>
 		</dict>
 		<key>Frameworks/FlutterMacOS.framework</key>
 		<dict>
@@ -203,19 +203,19 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			31rGsVyaW6SxXpwOZRrTWOHUVNs=
+			ItxuS9bN9g9z2qwJjA3d8u4wsG4=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"df5ac6b15c9a5ba4b15e9c0e651ad358e1d454db" or cdhash H"c056d508abb28e47e8e12dc7f36281d012c1ed22"</string>
+			<string>cdhash H"22dc6e4bd6cdf60f73daac098c0dddf2ee30b06e" or cdhash H"474cbd55d535aa69b5a1c8232fd3b507d4cd4457"</string>
 		</dict>
 		<key>Frameworks/sqflite.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			i7CWdH/Oeaqa14vbln3VI5UAIYQ=
+			VfkPu5ARm2wiV5DVclPkSuwBNR4=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"8bb096747fce79aa9ad78bdb967dd52395002184" or cdhash H"b29e2ead6c3b70cd4c481677f43883c61e5db532"</string>
+			<string>cdhash H"55f90fbb90119b6c225790d57253e44aec01351e" or cdhash H"96f7c5fdd1ab67bf367a20f71e4fe8fb8c4e0b28"</string>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>
@@ -228,7 +228,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bFzQ8/33zHpx3HW6dOawJE5Tt1gMiSdbhC4B3ICEkmw=
+			TM6kOTkLdqjCBq+bcU4Z6l66sOvrV9sP78R3quH0Y/Q=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
