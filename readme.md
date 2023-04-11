@@ -4,7 +4,7 @@
 
 下载地址：https://qiuxiang.github.io/genshin-maps/app-arm64-v8a-release.apk
 
-https://user-images.githubusercontent.com/1709072/206902921-63401f08-ab8b-48ee-a614-7749563946db.mp4
+https://user-images.githubusercontent.com/1709072/231053551-84fde3e3-13d5-45e9-9d4f-60c8ad33f2e1.mp4
 
 ## web 版
 
