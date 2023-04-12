@@ -1,0 +1,23 @@
+name: release
+on:
+  push:
+    tags: ['v[0-9]+.[0-9]+.[0-9]+*']
+jobs:
+  release:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Download builds
+        run: |
+          wget https://github.com/qiuxiang/genshin-maps/archive/refs/heads/linux.zip
+          wget https://github.com/qiuxiang/genshin-maps/archive/refs/heads/windows.zip
+          wget https://github.com/qiuxiang/genshin-maps/archive/refs/heads/macos.zip
+      - uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            app-*-release.apk
+            linux.zip
+            windows.zip
+            macos.zip
