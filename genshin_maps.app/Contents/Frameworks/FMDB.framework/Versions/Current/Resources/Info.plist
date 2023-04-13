@@ -43,6 +43,6 @@
 	<key>DTXcodeBuild</key>
 	<string>14C18</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.6</string>
+	<string>10.11</string>
 </dict>
 </plist>
