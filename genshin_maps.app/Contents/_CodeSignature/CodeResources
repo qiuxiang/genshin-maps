@@ -23,19 +23,19 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			OCfDppb3/XDZA5UeUbEpO+bJylM=
+			y7/2S/7y5vzsDijqDvt0FnWXf2g=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"3827c3a696f7fd70d903951e51b1293be6c9ca53" or cdhash H"ed017a744cd93c09c50b2e15a65f061be0b4ca19"</string>
+			<string>cdhash H"cbbff64bfef2e6fcec0e28ea0efb741675977f68" or cdhash H"f3f6f3cc170d2b65aafacc562c63fc89d7a69c40"</string>
 		</dict>
 		<key>Frameworks/FMDB.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Cao5gmG4OqokB6+1IrC0tnSR+/A=
+			/09pgRixFi8+eBiYmOcYERHYxCw=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"9107cc7b8599af4ef86474ba06be218b790aec73" or cdhash H"09aa398261b83aaa2407afb522b0b4b67491fbf0" or cdhash H"ea014c8222ca0b402869bfbbfde9cc3457264a08" or cdhash H"9d08d6ebb4cb521009f85cbd2a912824e4c2a54b"</string>
+			<string>cdhash H"5c3e1d9be3db6f83d2735c2b7d28f1aa9583956e" or cdhash H"ff4f698118b1162f3e78189898e7181111d8c42c" or cdhash H"7ec4abffb73ac4f7d3dfd743e49abd8d2ee73e97" or cdhash H"a607b3a4f60838e0b39c01e75c8cbde5e1c080c6"</string>
 		</dict>
 		<key>Frameworks/FlutterMacOS.framework</key>
 		<dict>
@@ -203,19 +203,28 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			prsl4K+E3uzqp4pxEKA8YOoocyE=
+			op4mhMh2kQf63OzqeAGKFgwKeWA=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"a6bb25e0af84deeceaa78a7110a03c60ea287321" or cdhash H"f141e1192a7f1ffcf2eb50d81c9473aadc51ee0b"</string>
+			<string>cdhash H"a29e2684c8769107fadcecea78018a160c0a7960" or cdhash H"a0f0a77200d4e1aeb94dbc670ef900ad130009d0"</string>
+		</dict>
+		<key>Frameworks/shared_preferences_foundation.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			QF40VaUwAN1YiTLyVqLBHEPFciQ=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"405e3455a53000dd588932f256a2c11c43c57224" or cdhash H"7bb68bc60b9611bb0a2023260fb9e4d52e8e0774"</string>
 		</dict>
 		<key>Frameworks/sqflite.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			sBkcrPCGnHO54WxxapXtJQHrWkU=
+			i4t9nQVwweqvzbLT4lLld8iCGlc=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"b0191cacf0869c73b9e16c716a95ed2501eb5a45" or cdhash H"4c19e063a29f6b1233a736b44ff231001d591bcd"</string>
+			<string>cdhash H"8b8b7d9d0570c1eaafcdb2d3e252e577c8821a57" or cdhash H"5066b4528047c3dd71a5150cd0902a8ac907dd97"</string>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>
