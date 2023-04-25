@@ -14,6 +14,9 @@ jobs:
           wget https://github.com/qiuxiang/genshin-maps/archive/refs/heads/linux.zip
           wget https://github.com/qiuxiang/genshin-maps/archive/refs/heads/windows.zip
           wget https://github.com/qiuxiang/genshin-maps/archive/refs/heads/macos.zip
+          wget https://qiuxiang.github.io/genshin-maps/app-arm64-v8a-release.apk
+          wget https://qiuxiang.github.io/genshin-maps/app-armeabi-v7a-release.apk
+          wget https://qiuxiang.github.io/genshin-maps/app-x86_64-release.apk
       - uses: softprops/action-gh-release@v1
         with:
           files: |
