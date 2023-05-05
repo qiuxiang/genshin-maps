@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		o5rPtzMVw7GQOck2pK7+qrF3kxs=
+		F+2iMUPO1g6oQCEU//eC4fxzuqg=
 		</data>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<data>
@@ -23,19 +23,19 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			qNJrlc0y8Ulkn112+lSjGnLnzgA=
+			TR7HWfyhjHrNXKMnGsVzApZThAo=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"a8d26b95cd32f149649f5d76fa54a31a72e7ce00" or cdhash H"27c530ce82659331a3576499297aca080d120208"</string>
+			<string>cdhash H"4d1ec759fca18c7acd5ca3271ac573029653840a" or cdhash H"3ee10951e48be53a7292851424ad04d10ca17f43"</string>
 		</dict>
 		<key>Frameworks/FMDB.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			M76jTXDwV/8h6OeaXn1fNEoy7jI=
+			CH1wzKEA7L7pzEAbB0ug5GGGmCQ=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"3310026479ef90cf3c36a23788479786b32e8e3a" or cdhash H"33bea34d70f057ff21e8e79a5e7d5f344a32ee32" or cdhash H"8c628e07b4b7db671269836a1d69b203efb645b9" or cdhash H"a61ac10d7fc7f17efeb2d0d1bccc5ae3ee18455a"</string>
+			<string>cdhash H"61edd4a5af1a0e340ab4996f550b4601d8d1b4b6" or cdhash H"087d70cca100ecbee9cc401b074ba0e461869824" or cdhash H"a194e378a830628137a271cf155cfc08b9cbc087" or cdhash H"0637dcd8bfc81bcb1451598c74cb50b284098d6e"</string>
 		</dict>
 		<key>Frameworks/FlutterMacOS.framework</key>
 		<dict>
@@ -203,28 +203,28 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			5pfe34Rlgd686arg07LstzC2L98=
+			TWoh9lhXlpGye+zzSsjZIOBok7U=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"e697dedf846581debce9aae0d3b2ecb730b62fdf" or cdhash H"39075c162d12b64d2fedc073a032b957a938fabe"</string>
+			<string>cdhash H"4d6a21f658579691b27becf34ac8d920e06893b5" or cdhash H"66765285fc21b9979c5925a536191e2b13006225"</string>
 		</dict>
 		<key>Frameworks/shared_preferences_foundation.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			MfI9waEG0M9Oa5sI0uqkyPjyQfU=
+			6BmvLLT64GYNcl3zaeXur4qE/b8=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"31f23dc1a106d0cf4e6b9b08d2eaa4c8f8f241f5" or cdhash H"dadd15bce428e9ab0280536afd0c5b7659e3283f"</string>
+			<string>cdhash H"e819af2cb4fae0660d725df369e5eeaf8a84fdbf" or cdhash H"8bd3efacc3028b59b3ef848c14919893ba093d9c"</string>
 		</dict>
 		<key>Frameworks/sqflite.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			BcYHyYsHapMGgFmLCWV+1KCuGVM=
+			iiFgQ5o3ChasmSQ+rHYEHNlBr0c=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"05c607c98b076a930680598b09657ed4a0ae1953" or cdhash H"516a834bfb4de96ec8d64807c9c2156647664a1a"</string>
+			<string>cdhash H"8a2160439a370a16ac99243eac76041cd941af47" or cdhash H"ba67a2fa591b67275ac2891b1c3567a207c38f4b"</string>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>
@@ -237,7 +237,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bFzQ8/33zHpx3HW6dOawJE5Tt1gMiSdbhC4B3ICEkmw=
+			Wo1X2BSIOgwGvle9gVhPmW5oTxD0P2IJDtPmmGK5Eew=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
